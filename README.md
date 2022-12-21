@@ -2,7 +2,7 @@
 Repository for data and code associated with the manuscript *Within-animal comparison of dopamine measured with microdialysis and fiber photometry in amphetamine-exposed mice*.
 
 
-All data is stored within the *data* folder under either *fiber photometry* or *microdialysis*. A Spyder notebook with Python code is supplied to pre-process the fiber photometry data as detailed in the method section of the manuscript. The same script also convert the microdialysis data (fmol/uL) in to fold change over baseline. Finally, both output can be plotted with the last two sections of the Spyder notebook.
+All data is stored within the *data* folder under either *fiber photometry* or *microdialysis*. A Spyder notebook with Python code is supplied to pre-process the fiber photometry data as detailed in the method section of the manuscript. The same script also convert the microdialysis data (fmol/uL) to fold change over baseline. Finally, both outputs can be plotted with the last two sections of the Spyder notebook.
 
 
 The *fiber photometry* folder contains a .txt file for each of the 14 mice, 7 of whom received amphetamine and 7 vehicle injection.
